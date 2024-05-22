@@ -3,6 +3,7 @@ package br.com.erudio.math;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;
+import org.junit.jupiter.params.provider.CsvSource;
 import org.junit.jupiter.params.provider.MethodSource;
 
 import java.util.stream.Stream;
@@ -27,7 +28,17 @@ class SimpleMathTest4 {
     @DisplayName("Test 6.2 / 2 = 3.1")
     @ParameterizedTest
     //@MethodSource("testDivisionInputParameters")
-    @MethodSource()
+    //@MethodSource()
+    @CsvSource({
+            "6.2, 2, 3.1",
+            "71, 14, 5.07",
+            "18.3, 3.1, 5.90"
+    })
+//    @CsvSource({
+//        "Pelé, Football",
+//        "Senna, F1",
+//        "Keith Moon, ''"
+//    })
     void testDivision(double firstNumber, double secondNumber, double expected) {
         Double actual = math.division(firstNumber, secondNumber);
 
@@ -35,12 +46,12 @@ class SimpleMathTest4 {
     }
 
     //public static Stream<Arguments> testDivisionInputParameters() {
-    public static Stream<Arguments> testDivision() {
+    /*public static Stream<Arguments> testDivision() {
         return Stream.of(
                 Arguments.of(6.2D, 2D, 3.1D),
                 Arguments.of(71D, 14D, 5.07D),
                 Arguments.of(18.3D, 3.1D, 5.90D)
         );
-    }
+    }*/
 
 }
