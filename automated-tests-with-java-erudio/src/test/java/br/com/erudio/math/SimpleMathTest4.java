@@ -2,14 +2,11 @@ package br.com.erudio.math;
 
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
-import org.junit.jupiter.params.provider.Arguments;
-import org.junit.jupiter.params.provider.CsvSource;
-import org.junit.jupiter.params.provider.MethodSource;
+import org.junit.jupiter.params.provider.*;
 
 import java.util.stream.Stream;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assertions.*;
 
 @DisplayName("Test Math Operation in SimpleMath Class")
 class SimpleMathTest4 {
@@ -21,24 +18,28 @@ class SimpleMathTest4 {
         math = new SimpleMath();
     }
 
-    @AfterEach
-    void afterEachMethod(){
+    @ParameterizedTest
+    @ValueSource(strings = {"Pelé", "Senna", "Keith Moon"})
+    void testValueEachMethod(String  firstname){
+        System.out.println(firstname);
+        assertNotNull(firstname);
     }
 
-    @DisplayName("Test 6.2 / 2 = 3.1")
+    @DisplayName("Test double sbtraction[firstNumber, secondNumber, expected]")
     @ParameterizedTest
     //@MethodSource("testDivisionInputParameters")
     //@MethodSource()
-    @CsvSource({
-            "6.2, 2, 3.1",
-            "71, 14, 5.07",
-            "18.3, 3.1, 5.90"
-    })
+//    @CsvSource({
+//            "6.2, 2, 3.1",
+//            "71, 14, 5.07",
+//            "18.3, 3.1, 5.90"
+//    })
 //    @CsvSource({
 //        "Pelé, Football",
 //        "Senna, F1",
 //        "Keith Moon, ''"
 //    })
+    @CsvFileSource(resources = "/testDivision.csv")
     void testDivision(double firstNumber, double secondNumber, double expected) {
         Double actual = math.division(firstNumber, secondNumber);
 
