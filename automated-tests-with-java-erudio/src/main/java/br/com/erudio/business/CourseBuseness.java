@@ -19,7 +19,7 @@ public class CourseBuseness {
         var filteredCurses = new ArrayList<String>();
         if("Foo Bar".equals(student)) return filteredCurses;
 
-        var allCourses = service.retriveCurses(student);
+        var allCourses = service.retrieveCourses(student);
 
         for (String course: allCourses) {
             if(course.contains("Spring")){
@@ -29,4 +29,17 @@ public class CourseBuseness {
 
         return filteredCurses;
     }
+
+    public void deleteCoursesNotRelatedToSpring(String student){
+
+        var allCourses = service.retrieveCourses(student);
+
+        for (String course: allCourses) {
+            if(!course.contains("Spring")){
+                service.deleteCourse(course);
+            }
+        }
+    }
+
+
 }

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09A_FirstStepsInJavawithSpringBoot/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09B_ParametersAndExceptionHandler/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09C_WorkingWithVerbs/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09D_ConnectingToMySQL/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S10_TestingRepositories/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S11_TestingServices/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S12_TestingControllers/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S13_IntegrationTests/rest-with-spring-boot-and-java-erudio/src/main/java" charset="UTF-8" />
+  </component>
+</project>

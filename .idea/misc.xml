@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Projeto vazio/automated-tests-with-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S05_JUnit5andTDD/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S08_CodeCoverage/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S11_TestingServices/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S13_IntegrationTests/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09C_WorkingWithVerbs/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S06_MockitosFirstSteps/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09D_ConnectingToMySQL/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S12_TestingControllers/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S10_TestingRepositories/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S04_AdvancedConceptsofJUnit5/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S07_AdvancedConceptsofMockito/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S03_FirstStepsInJUnit5WithJava/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09B_ParametersAndExceptionHandler/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/Repositorio_curso/automated-tests-with-java-erudio-main/S09A_FirstStepsInJavawithSpringBoot/rest-with-spring-boot-and-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/automated-tests-with-java-erudio/pom.xml" />
+        <option value="$PROJECT_DIR$/automated-tests-with-java-erudio-4/pom.xml" />
+        <option value="$PROJECT_DIR$/automated-tests-with-java-erudio -5/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="21" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

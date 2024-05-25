@@ -6,8 +6,9 @@ import java.util.Arrays;
 import java.util.List;
 
 public class CourseServiceStub implements CourseService {
+
     @Override
-    public List<String> retriveCurses(String student) {
+    public List<String> retrieveCourses(String student) {
         return Arrays.asList(
                 "REST API's RESTFul do 0 à Azure com ASP.NET Core 5 e Docker",
                 "Agile Desmistificado com Scrum, XP, Kanban e Trello",
@@ -23,8 +24,14 @@ public class CourseServiceStub implements CourseService {
         );
     }
 
+
     @Override
     public List<String> doSomething(String student) {
         return List.of();
+    }
+
+    @Override
+    public void deleteCourse(String course) {
+
     }
 }

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rest-with-spring-boot-and-java-erudio (3)" />
+        <module name="rest-with-spring-boot-and-java-erudio (2)" />
+        <module name="rest-with-spring-boot-and-java-erudio (1)" />
+        <module name="rest-with-spring-boot-and-java-erudio (7)" />
+        <module name="rest-with-spring-boot-and-java-erudio (6)" />
+        <module name="rest-with-spring-boot-and-java-erudio (5)" />
+        <module name="rest-with-spring-boot-and-java-erudio (4)" />
+        <module name="automated-tests-with-java-erudio (9)" />
+        <module name="automated-tests-with-java-erudio (5)" />
+        <module name="rest-with-spring-boot-and-java-erudio" />
+        <module name="automated-tests-with-java-erudio (6)" />
+        <module name="automated-tests-with-java-erudio (7)" />
+        <module name="automated-tests-with-java-erudio (8)" />
+        <module name="automated-tests-with-java-erudio (1)" />
+        <module name="automated-tests-with-java-erudio (2)" />
+        <module name="automated-tests-with-java-erudio" />
+        <module name="automated-tests-with-java-erudio (3)" />
+        <module name="automated-tests-with-java-erudio (4)" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rest-with-spring-boot-and-java-erudio" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (1)" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (2)" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (3)" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (4)" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (5)" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (6)" options="-parameters" />
+      <module name="rest-with-spring-boot-and-java-erudio (7)" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -38,7 +38,7 @@ class CourseBusenessMockTest {
     @Test
     void testCoursesRelatedToSpring_When_UsingAMock(){
         //Give
-        Mockito.when(mockService.retriveCurses("Leandro")).thenReturn(courses);
+        Mockito.when(mockService.retrieveCourses("Leandro")).thenReturn(courses);
 
         //When
         var filteredCourses = buseness.retriveCousesRelatedRoSpring("Leandro");
