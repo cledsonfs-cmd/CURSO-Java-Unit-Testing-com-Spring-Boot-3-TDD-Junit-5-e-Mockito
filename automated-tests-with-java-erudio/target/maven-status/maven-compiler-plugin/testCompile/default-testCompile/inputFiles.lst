@@ -1,0 +1,12 @@
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/business/CourseBusenessMockTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/business/CourseBusenessMockWithBDDTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/business/CourseBusenessStubTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/business/ListBDDTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/business/ListTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/mockito/CourseBusenessMokitoInjectMocksTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/mockito/HamcrestMatchersTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/mockito/SpyTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/mockito/constructor/CheckoutServiceTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/mockito/services/OrderServiceTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/mockito/staticwithparams/MyUtilsTest.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/test/java/br/com/erudio/service/stubs/CourseServiceStub.java

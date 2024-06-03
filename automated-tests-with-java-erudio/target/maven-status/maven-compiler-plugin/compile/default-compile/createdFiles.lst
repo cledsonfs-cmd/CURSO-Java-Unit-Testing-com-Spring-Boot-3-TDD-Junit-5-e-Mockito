@@ -1,0 +1,8 @@
+br/com/erudio/mockito/services/Order.class
+br/com/erudio/mockito/constructor/PaymentProcessor.class
+br/com/erudio/mockito/constructor/CheckoutService.class
+br/com/erudio/mockito/services/OrderService.class
+br/com/erudio/mockito/staticwithparams/MyUtils.class
+br/com/erudio/Main.class
+br/com/erudio/business/CourseBuseness.class
+br/com/erudio/service/CourseService.class

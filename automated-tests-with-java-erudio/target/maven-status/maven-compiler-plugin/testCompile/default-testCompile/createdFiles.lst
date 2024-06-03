@@ -1,0 +1,12 @@
+br/com/erudio/mockito/SpyTest.class
+br/com/erudio/mockito/constructor/CheckoutServiceTest.class
+br/com/erudio/business/CourseBusenessMockTest.class
+br/com/erudio/business/CourseBusenessStubTest.class
+br/com/erudio/mockito/HamcrestMatchersTest.class
+br/com/erudio/business/ListTest.class
+br/com/erudio/business/CourseBusenessMockWithBDDTest.class
+br/com/erudio/mockito/CourseBusenessMokitoInjectMocksTest.class
+br/com/erudio/mockito/services/OrderServiceTest.class
+br/com/erudio/business/ListBDDTest.class
+br/com/erudio/mockito/staticwithparams/MyUtilsTest.class
+br/com/erudio/service/stubs/CourseServiceStub.class

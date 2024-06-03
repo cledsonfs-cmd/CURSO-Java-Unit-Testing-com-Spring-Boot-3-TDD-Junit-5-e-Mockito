@@ -1,0 +1,8 @@
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/Main.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/business/CourseBuseness.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/mockito/constructor/CheckoutService.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/mockito/constructor/PaymentProcessor.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/mockito/services/Order.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/mockito/services/OrderService.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/mockito/staticwithparams/MyUtils.java
+/home/cledson/Estudo/CURSO-Java-Unit-Testing-com-Spring-Boot-3-TDD-Junit-5-e-Mockito/automated-tests-with-java-erudio/src/main/java/br/com/erudio/service/CourseService.java

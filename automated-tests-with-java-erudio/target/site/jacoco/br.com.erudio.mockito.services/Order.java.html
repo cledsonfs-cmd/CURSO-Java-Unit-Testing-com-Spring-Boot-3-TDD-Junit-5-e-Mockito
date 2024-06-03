@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="pt"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../jacoco-resources/report.css" type="text/css"/><link rel="shortcut icon" href="../jacoco-resources/report.gif" type="image/gif"/><title>Order.java</title><link rel="stylesheet" href="../jacoco-resources/prettify.css" type="text/css"/><script type="text/javascript" src="../jacoco-resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../jacoco-sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">automated-tests-with-java-erudio</a> &gt; <a href="index.source.html" class="el_package">br.com.erudio.mockito.services</a> &gt; <span class="el_source">Order.java</span></div><h1>Order.java</h1><pre class="source lang-java linenums">package br.com.erudio.mockito.services;
+
+import java.time.LocalDateTime;
+
+public class Order {
+    
+    private String id;
+    private String productName;
+    private Long amount;
+    private LocalDateTime creationDate;
+    
+<span class="nc" id="L12">    public Order() {}</span>
+
+    public String getProductName() {
+<span class="nc" id="L15">        return productName;</span>
+    }
+
+    public void setProductName(String productName) {
+<span class="nc" id="L19">        this.productName = productName;</span>
+<span class="nc" id="L20">    }</span>
+
+    public Long getAmount() {
+<span class="nc" id="L23">        return amount;</span>
+    }
+
+    public void setAmount(Long amount) {
+<span class="nc" id="L27">        this.amount = amount;</span>
+<span class="nc" id="L28">    }</span>
+
+    public String getId() {
+<span class="nc" id="L31">        return id;</span>
+    }
+
+    public void setId(String id) {
+<span class="nc" id="L35">        this.id = id;</span>
+<span class="nc" id="L36">    }</span>
+
+    public LocalDateTime getCreationDate() {
+<span class="nc" id="L39">        return creationDate;</span>
+    }
+
+    public void setCreationDate(LocalDateTime creationDate) {
+<span class="nc" id="L43">        this.creationDate = creationDate;</span>
+<span class="nc" id="L44">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.jacoco.org/jacoco">JaCoCo</a> 0.8.12.202403310830</span></div></body></html>
